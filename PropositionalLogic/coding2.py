@@ -1,6 +1,3 @@
-# COMS3203 DISCRETE MATHEMATICS
-# CODING ASSIGNMENT 2
-#
 # Author: Jorge Galvis
 
 
