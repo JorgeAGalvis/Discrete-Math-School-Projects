@@ -1,14 +1,8 @@
 # COMS3203 DISCRETE MATHEMATICS
 # CODING ASSIGNMENT 2
 #
-# Before submitting the file to gradescope make sure of the following:
-# 1. The name of the file is coding2.py 
-# 2. Nothing below the line `if __name__="__main__":` is changed 
-# 3. Make sure there are no indentation errors and that the code compiles on your
-#    end
-#
-# YOUR NAME: Jorge Galvis
-# YOUR UNI: jag2425
+# Author: Jorge Galvis
+
 
 import itertools
 
