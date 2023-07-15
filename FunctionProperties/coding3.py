@@ -1,16 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Author: Jorge Galvis 
 
-# COMS3203 DISCRETE MATHEMATICS
-# CODING ASSIGNMENT 3
-#
-# Before submitting the file to gradescope make sure of the following:
-# 1. The name of the file is coding3.py
-# 2. Nothing below the line `if __name__="__main__":` is changed
-# 3. Make sure there are no indentation errors and that the code compiles on your end
-#
-# YOUR NAME(S): Jorge Galvis 
-# YOUR UNI(S): jag2425
 
 def is_onto (domain, co_domain, mapping):
     """Determines if the function is onto.
